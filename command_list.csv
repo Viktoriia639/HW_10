@@ -1,0 +1,114 @@
+    1  date
+    2  ping google.com
+    3  system_profiler
+    4  clear
+    5  clear
+    6  df -h
+    7  clear
+    8  ifconfig
+    9  whoami
+   10  clear
+   11  cd Git
+   12  ls
+   13  cd Desktop
+   14  cd Git
+   15  git config --global user.name "Viktoriia Kharchenko"
+   16  git config --global user.email "viktoriialazarets639@gmail.com"
+   17  git clone https://github.com/Viktoriia639/Lesson3.1.git
+   18  git status
+   19  cd Lesson3.1
+   20  git status
+   21  git add New.txt
+   22  git status
+   23  git add New.txt
+   24  git clone https://github.com/Viktoriia639/Lesson3.1.git
+   25  cd ..
+   26  cd ..
+   27  clear
+   28  ls
+   29  cd Desktop
+   30  cd Git
+   31  git clone https://github.com/Viktoriia639/Lesson3.1.git
+   32  git status
+   33  git add New.txt
+   34  cd ..
+   35  cd Git
+   36  cd Lesson3.1
+   37  git status
+   38  git add New.txt
+   39  touch New.txt
+   40  git status
+   41  git add New.txt
+   42  git status
+   43  cd Desktop
+   44  ls
+   45  cd Git
+   46  ls
+   47  clear
+   48  cd Lesson3.1
+   49  ls
+   50  git commit -m "New file created"
+   51  git log
+   52  git branch
+   53  git checkout -b new_branch
+   54  git branch
+   55  git checkout main
+   56  git branch
+   57  git checkout new_branch
+   58  git branch
+   59  nano New.txt
+   60  git status
+   61  git commit -m "New modified"
+   62  git checkout main
+   63  git merge new_branch
+   64  git checkout new_branch
+   65  git merge main
+   66  git status
+   67  git add New.txt
+   68  git status
+   69  git commit -m "New modified"
+   70  git status
+   71  get push
+   72  git push
+   73  ls
+   74  cd Desktop
+   75  ls
+   76  cd Homework10
+   77  history -c && rm ~/.bash_history
+   78  history -c && rm~/.bash_history
+   79  git config --global user.name "Viktoriia Kharchenko"
+   80  git config --global user.email viktoriialazarets639@gmail.com
+   81  git clone https://github.com/Viktoriia639/HW_10.git
+   82  cd HW_10
+   83  git touch text_ignore.txt
+   84  touch text_ignore.txt
+   85  nano .gitignore
+   86  nano .gitignore.txt
+   87  nano .gitignore
+   88  nano .gitignore 
+   89  git status
+   90  git add .gitignore
+   91  git add text_ignore.txt
+   92  -f
+   93  git add -f text_ignore.txt
+   94  git status
+   95  rm .gitignore.txt
+   96  git status
+   97  git commit -m "New file created"
+   98  touch main_test.txt
+   99  git add main_test.txt
+  100  git status
+  101  git commit -m "New file created1"
+  102  git checkout -b developer
+  103  git checkout developer
+  104  touch develop_test.txt
+  105  git add develop_test.txt
+  106  git commit -m "New file develop created"
+  107  git status
+  108  git checkout main
+  109  git status
+  110  git merge developer
+  111  git branch
+  112  git log
+  113  git log
+  114  git branch
